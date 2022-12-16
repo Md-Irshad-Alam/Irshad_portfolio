@@ -6,4 +6,26 @@
     height: 150px;
     width: 150px;
     margin-left: 60px;
+
+}
+.footer{
+    display: flex;
+   margin-bottom: 100px;
+   height: 60px;
+   font-size: 20px;
+   margin: auto;
+   justify-content: center;
+   align-items: center;
+   gap: 5px;
+   
+
+
+
+}
+.cnt{
+   
+    display: flex;
+    gap: 5px;
+    
+
 }
